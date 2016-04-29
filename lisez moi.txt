@@ -1,0 +1,6 @@
+programme en C++ fait sous Qt
+
+affiche les villes selon la region,code postal...Etc..
+un click sur la grille permet de changer l'ordre des villes selon l'ordre alphabetique
+
+possibilités de faire des requetes SQL j'ai enlevai les fonctions qui modifie la base pour eviter de faire des betises ^^
