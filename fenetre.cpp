@@ -37,7 +37,7 @@ fenetre::fenetre() : QWidget()
     QString driver("QMYSQL");
     QString dbname("codepostal");    //changer les infos de connexion si besoin
     QString dbuser("root");
-    QString dbpass("guitares");
+    QString dbpass("");
     QString dbhost("localhost");
 
     if(!db->setConnection(driver,dbname,dbhost,dbuser,dbpass))
